@@ -1,6 +1,5 @@
 _site
 _drafts
-img
 node_modules
 Gemfile.lock
 .sass-cache
