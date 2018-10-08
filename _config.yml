@@ -1,0 +1,16 @@
+title:             Gemütlichkeit
+email:             me@gemuetlichkeit.io
+description:       Learning to enjoy life in a fast paced world
+author:            Gemütlichkeit
+url:               "http://gemuetlichkeit.github.io"
+
+# Social Profiles
+github_username:   gemuetlichkeit
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
